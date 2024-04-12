@@ -6,4 +6,4 @@ Crear archivos y trabajar en el proyecto
 Agregregar los archivos sin rastrear (U) al area de staging con el comando `git add .´ o `git add nombreDelArchivo.ex
 ## Paso 4
 Agregar los cambios a git con `git commit´ -m "un mensaje"
-## Paso 5 
+## Paso 5  - 
